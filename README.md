@@ -20,6 +20,15 @@ More about me-
 
 
 **Excited to connect with like-minded individuals and potential collaborators!**
+<div align="center">
+  <img align="center" alt="Coding" width="600" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg"/>
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SimarjeetxSingh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+<br/>
 <hr>
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SimarjeetxSingh&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
