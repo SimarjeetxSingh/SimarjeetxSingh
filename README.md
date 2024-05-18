@@ -2,7 +2,7 @@
 <html> <h2>Simarjeet Singh</h2>
 <b>B.Tech Computer Science Engineering | Giani Zail Singh Campus College of Engineering and Technology | Maharaja Ranjit Singh Punjab Technical University</b>
 <p>
-Skilled in C++, C, HTML, CSS, JavaScript, PHP, and Python. Seeking opportunities to leverage technical skills and creativity for impactful projects.  Passionate about innovation and making a positive contribution to the world.
+<i>Skilled in C++, C, HTML, CSS, JavaScript, PHP, and Python. Seeking opportunities to leverage technical skills and creativity for impactful projects.  Passionate about innovation and making a positive contribution to the world.</i>
 
 
 Hello,
