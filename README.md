@@ -1,6 +1,13 @@
 ![360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P](https://user-images.githubusercontent.com/130891817/232280778-77fcd051-7f5e-406e-a7d1-be502243f8f5.jpg)
-- 👋 
-Hello, I'm Simarjeet Singh, a tech enthusiast and a creative soul on a mission to make the world a better place through technology, faith, and the rhythm of life. As a B.Tech Computer Science Engineering student at Giani Zail Singh Campus College of Engineering and Technology, Bathinda, I've been honing my technical skills and cultivating a profound understanding of the intricacies of computer science.
+<html> <h2>Simarjeet Singh</h2>
+<b>B.Tech Computer Science Engineering | Giani Zail Singh Campus College of Engineering and Technology | Maharaja Ranjit Singh Punjab Technical University</b>
+</html>
+Skilled in C++, C, HTML, CSS, JavaScript, PHP, and Python. Seeking opportunities to leverage technical skills and creativity for impactful projects.  Passionate about innovation and making a positive contribution to the world.
+
+
+Hello,
+More about me- 
+A tech enthusiast and a creative soul on a mission to make the world a better place through technology, faith, and the rhythm of life. As a B.Tech Computer Science Engineering student at Giani Zail Singh Campus College of Engineering and Technology, Bathinda, I've been honing my technical skills and cultivating a profound understanding of the intricacies of computer science.
 
 My journey has been an exciting blend of spirituality, creativity, and academic pursuits. With a strong belief in the divine and a love for coding and dance, I've discovered that pursuing my passions brings immense happiness and fulfillment.</p>
 
