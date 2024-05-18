@@ -4,7 +4,7 @@
 <p>
 <i>Skilled in C++, C, HTML, CSS, JavaScript, PHP, and Python. Seeking opportunities to leverage technical skills and creativity for impactful projects.  Passionate about innovation and making a positive contribution to the world.</i>
 
-<div style:" font="Times New Roman", color="blue"">
+<div style:" font="Times New Roman"; color="blue"">
 Hello,
 More about me- 
 A tech enthusiast and a creative soul on a mission to make the world a better place through technology, faith, and the rhythm of life. As a B.Tech Computer Science Engineering student at Giani Zail Singh Campus College of Engineering and Technology, Bathinda, I've been honing my technical skills and cultivating a profound understanding of the intricacies of computer science.
