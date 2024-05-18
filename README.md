@@ -1,6 +1,6 @@
 ![360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P](https://user-images.githubusercontent.com/130891817/232280778-77fcd051-7f5e-406e-a7d1-be502243f8f5.jpg)
 ## Simarjeet Singh
-** B.Tech Computer Science Engineering | Giani Zail Singh Campus College of Engineering and Technology | Maharaja Ranjit Singh Punjab Technical University **
+**B.Tech Computer Science Engineering | Giani Zail Singh Campus College of Engineering and Technology | Maharaja Ranjit Singh Punjab Technical University**
 *Skilled in C++, C, HTML, CSS, JavaScript, PHP, and Python. Seeking opportunities to leverage technical skills and creativity for impactful projects.  Passionate about innovation and making a positive contribution to the world.*
 
 
@@ -19,4 +19,4 @@ More about me-
 * I'm eager to connect with like-minded individuals and potential collaborators as I embark on this exciting journey. Together, let's make the world a better place, one line of code and one Bhangra step at a time. As I continue to tread the path of education and self-discovery, I am open to exploring new opportunities and challenges in the tech industry, where I can apply my skills and passion to create meaningful innovations.
 
 
-** Excited to connect with like-minded individuals and potential collaborators! **
+**Excited to connect with like-minded individuals and potential collaborators!**
