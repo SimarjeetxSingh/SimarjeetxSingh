@@ -35,8 +35,9 @@
         }
       </style>
 <center>
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=simarxjeet" target="_blank">Follow on LinkedIn</a>
+<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=simarxjeet" target="_blank">LinkedIn</a>
 </center>
+
 **Excited to connect with like-minded individuals and potential collaborators!**
 
 <p align="center">
