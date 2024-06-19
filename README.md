@@ -17,7 +17,7 @@
 🌍 I'm eager to connect with like-minded individuals and potential collaborators as I embark on this exciting journey. Let's make the world a better place, one line of code and one Bhangra step at a time together. As I continue to tread the path of education and self-discovery, I am open to exploring new opportunities and challenges in the tech industry, where I can apply my skills and passion to create meaningful innovations.
 
 
-**Excited to connect with like-minded individuals and potential collaborators! let's connect on <b>LinkedIn</b>**
+**Excited to connect with like-minded individuals and potential collaborators! let's connect on **LinkedIn** **
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SimarjeetxSingh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
