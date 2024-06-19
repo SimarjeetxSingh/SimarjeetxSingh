@@ -16,27 +16,9 @@
 
 🌍 I'm eager to connect with like-minded individuals and potential collaborators as I embark on this exciting journey. Let's make the world a better place, one line of code and one Bhangra step at a time together. As I continue to tread the path of education and self-discovery, I am open to exploring new opportunities and challenges in the tech industry, where I can apply my skills and passion to create meaningful innovations.
 
- <style>
-        .libutton {
-          display: flex;
-          flex-direction: column;
-          justify-content: center;
-          padding: 7px;
-          text-align: center;
-          outline: none;
-          text-decoration: none !important;
-          color: #ffffff !important;
-          width: 170px;
-          height: 25px;
-          border-radius: 16px;
-          background-color: rgb(50, 50, 92);
-          font-family: "SF Pro Text", Helvetica, sans-serif;
-            margin-left:50px;
-        }
-      </style>
-<center>
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=simarxjeet" target="_blank">LinkedIn</a>
-</center>
+<p align="center">
+<a href="https://www.linkedin.com/simarxjeet" target="_blank">LinkedIn</a>
+</p>
 
 **Excited to connect with like-minded individuals and potential collaborators!**
 
