@@ -18,7 +18,7 @@
 
 <p align="center">
   <h3>
-<a href="www.linkedin.com/in/simarxjeett" target="_blank">LinkedIn</a>
+<a href="www.linkedin.com/in/simarxjeet" target="_blank">LinkedIn</a>
   </h3>
 </p>
 
