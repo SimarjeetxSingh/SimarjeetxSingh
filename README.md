@@ -45,7 +45,7 @@
   <hr/>
   
 <div align="center" >
-  <img src="https://github.com/SimarjeetxSingh/SimarjeetxSingh/assets/130891817/3d4e5131-0dd7-4750-92f8-bae27bf930fc" height="100px"alt="giphy pedro"/>
+  <img src="https://github.com/SimarjeetxSingh/SimarjeetxSingh/assets/130891817/3d4e5131-0dd7-4750-92f8-bae27bf930fc" height="130px"alt="giphy pedro"/>
   <p>
     - Liked My profile? Follow to stay in touch.
   </p>
