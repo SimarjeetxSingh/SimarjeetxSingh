@@ -1,4 +1,4 @@
-![360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P](https://user-images.githubusercontent.com/130891817/232280778-77fcd051-7f5e-406e-a7d1-be502243f8f5.jpg)
+![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/SimarjeetxSingh/SimarjeetxSingh/assets/130891817/9de88981-0370-442d-b9f4-9631bda06f39)
 ## Hi, Myself Simarjeet Singh
 **B.Tech Computer Science Engineering | Giani Zail Singh Campus College of Engineering and Technology | Maharaja Ranjit Singh Punjab Technical University**  
 *Seeking opportunities to leverage technical skills and creativity for impactful projects.  Passionate about innovation and making a positive contribution to the world.*
@@ -35,16 +35,11 @@
 
 <div align="center">
   
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=highcontrast)
 </div>
   <hr/>
-
-
-<div style="width:100%;height:0;padding-bottom:96%;position:relative;"><iframe src="https://giphy.com/embed/aQwvKKi4Lv3t63nZl9" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/justin-meme-raccoon-pedro-aQwvKKi4Lv3t63nZl9">via GIPHY</a></p>
   
-  
-
 <div align="center">
   Liked My profile? Follow to stay in touch
   <p>
