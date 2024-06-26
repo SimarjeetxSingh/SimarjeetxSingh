@@ -17,7 +17,7 @@
 🌍 I'm eager to connect with like-minded individuals and potential collaborators as I embark on this exciting journey. Let's make the world a better place, one line of code and one Bhangra step at a time together. As I continue to tread the path of education and self-discovery, I am open to exploring new opportunities and challenges in the tech industry, where I can apply my skills and passion to create meaningful innovations.
 
 
-⚜️ 👜Excited to connect with like-minded individuals and potential collaborators! let's connect on **LinkedIn** 
+⚜️ 👜Excited to connect with like-minded individuals and potential collaborators! let's connect on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@simarxjeet) 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SimarjeetxSingh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
@@ -26,18 +26,21 @@
 <br/>
 <hr/>
 <div align="center">
-  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=SimarjeetxSingh&show_icons=true&locale=en&layout=compact" alt="top languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimarjeetxSingh&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="top languages" />
 </div>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SimarjeetxSingh&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img align="" src="https://github-readme-stats.vercel.app/api?username=SimarjeetxSingh&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
 </div>
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SimarjeetxSingh" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SimarjeetxSingh&theme=highcontrast&hide_border=false" alt="GitHub Streaks" />
 </div>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <hr/>
+
 <div align="center">
-  <img src="https://media4.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif?cid=ecf05e4730zmjvnvjf49em52l7ggu321owhtzqgtsh924yr2&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF"/>
+  <img src='https://memer-new.vercel.app/' style="height: 400px;" alt=" Random Meme"/>
 </div>
 <div align="center">
   Liked My profile? Follow to stay in touch
