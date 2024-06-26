@@ -38,13 +38,11 @@
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=highcontrast)
 </div>
+<img src="https://komarev.com/ghpvc/?username=SimarjeetxSingh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
   <hr/>
   
 <div align="center">
   Liked My profile? Follow to stay in touch
-  <p>
-  <img src="https://komarev.com/ghpvc/?username=SimarjeetxSingh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </p>
 </div>
 </hr>
 
