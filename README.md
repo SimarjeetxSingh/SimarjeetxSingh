@@ -44,8 +44,8 @@
 </div>
   <hr/>
   
-<div align="center" style="border-radius:50px; background-color:red;">
-  <img src="https://github.com/SimarjeetxSingh/SimarjeetxSingh/assets/130891817/3d4e5131-0dd7-4750-92f8-bae27bf930fc" alt="giphy pedro"/>
+<div align="center" >
+  <img src="https://github.com/SimarjeetxSingh/SimarjeetxSingh/assets/130891817/3d4e5131-0dd7-4750-92f8-bae27bf930fc" border-radius="50px;" alt="giphy pedro"/>
   <p>
     - Liked My profile? Follow to stay in touch.
   </p>
