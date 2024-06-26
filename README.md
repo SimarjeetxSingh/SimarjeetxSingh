@@ -41,10 +41,10 @@
   <hr/>
 
 <div align="center">
-  <img src='https://memer-new.vercel.app/' style="height: 400px;" alt=" Random Meme"/>
+<div style="width:100%;height:0;padding-bottom:96%;position:relative;" style="height: 400px;" alt=" Random Meme">
+  <iframe src="https://giphy.com/embed/aQwvKKi4Lv3t63nZl9" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+  <p><a href="https://giphy.com/gifs/justin-meme-raccoon-pedro-aQwvKKi4Lv3t63nZl9"></a></p>
   
----
-[![](https://visitcount.itsvg.in/api?id=SimarjeetxSingh&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
 <div align="center">
   Liked My profile? Follow to stay in touch
