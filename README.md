@@ -45,8 +45,10 @@
   <hr/>
   
 <div align="center">
-  <img src="https://github.com/SimarjeetxSingh/SimarjeetxSingh/assets/130891817/3d4e5131-0dd7-4750-92f8-bae27bf930fc" alt="giphy pedro"/>
-- Liked My profile? Follow to stay in touch.
+  <img style="border-radius:50px;" src="https://github.com/SimarjeetxSingh/SimarjeetxSingh/assets/130891817/3d4e5131-0dd7-4750-92f8-bae27bf930fc" alt="giphy pedro"/>
+  <p>
+    - Liked My profile? Follow to stay in touch.
+  </p>
 </div>
 </hr>
 
