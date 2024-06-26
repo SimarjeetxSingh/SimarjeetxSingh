@@ -37,14 +37,15 @@
   
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=highcontrast)
-</div>
+
 <p>
 <img src="https://komarev.com/ghpvc/?username=SimarjeetxSingh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
+</div>
   <hr/>
   
 <div align="center">
-  <p style="height:100px;">
+  <p style="height:100px; border-radius:20px;">
     
 ![giphy pedro](https://github.com/SimarjeetxSingh/SimarjeetxSingh/assets/130891817/3d4e5131-0dd7-4750-92f8-bae27bf930fc)
 </p>
