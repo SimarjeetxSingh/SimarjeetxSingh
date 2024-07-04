@@ -1,6 +1,6 @@
 ![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/SimarjeetxSingh/SimarjeetxSingh/assets/130891817/9de88981-0370-442d-b9f4-9631bda06f39)
 ## Hi, Myself Simarjeet Singh
-**B.Tech Computer Science Engineering | Giani Zail Singh Campus College of Engineering and Technology | Maharaja Ranjit Singh Punjab Technical University**  
+**B.Tech Computer Science & Engineering | Giani Zail Singh Campus College of Engineering and Technology | Maharaja Ranjit Singh Punjab Technical University**  
 *Seeking opportunities to leverage technical skills and creativity for impactful projects.  Passionate about innovation and making a positive contribution to the world.*
 
 
