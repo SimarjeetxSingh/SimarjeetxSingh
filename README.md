@@ -1,7 +1,6 @@
 ![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/SimarjeetxSingh/SimarjeetxSingh/assets/130891817/9de88981-0370-442d-b9f4-9631bda06f39)
-## Hi, Myself Simarjeet Singh
-**B.Tech Computer Science & Engineering | Giani Zail Singh Campus College of Engineering and Technology | Maharaja Ranjit Singh Punjab Technical University**  
-*Seeking opportunities to leverage technical skills and creativity for impactful projects.  Passionate about innovation and making a positive contribution to the world.*
+ 
+*Seeking opportunities to leverage technical skills and creativity for impactful projects.  Passionate about innovation and making a positive contribution.*
 
 
 🌟 A tech enthusiast and a creative soul on a mission to make the world a better place through technology, faith, and the rhythm of life. As a B.Tech Computer Science Engineering student at Giani Zail Singh Campus College of Engineering and Technology, Bathinda, I've been honing my technical skills and cultivating a profound understanding of the intricacies of computer science.
@@ -16,6 +15,7 @@
 
 🌍 I'm eager to connect with like-minded individuals and potential collaborators as I embark on this exciting journey. Let's make the world a better place, one line of code and one Bhangra step at a time together. As I continue to tread the path of education and self-discovery, I am open to exploring new opportunities and challenges in the tech industry, where I can apply my skills and passion to create meaningful innovations.
 
+**B.Tech Computer Science & Engineering | Giani Zail Singh Campus College of Engineering and Technology | Maharaja Ranjit Singh Punjab Technical University** 
 
 ⚜️ 👜Excited to connect with like-minded individuals and potential collaborators! let's connect on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simarxjeet/) 
 
@@ -26,9 +26,9 @@
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimarjeetxSingh&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="top languages" />
 </div>
-<div align="center">
+<!-- <div align="center">
   <img align="" src="https://github-readme-stats.vercel.app/api?username=SimarjeetxSingh&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
-</div>
+</div> -->
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SimarjeetxSingh&theme=highcontrast&hide_border=false" alt="GitHub Streaks" />
 </div>
